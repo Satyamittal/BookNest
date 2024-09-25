@@ -1,0 +1,8 @@
+Steps
+
+- Making routes 
+    - '/'                 main page contains user form. Asks about new user or existing user.
+    - '/wannaBeForm'      Asks about category of user. Who you want to be ?
+    - 'buyerPlace'        Buyer can find books to buy .
+    - 'sellerPlace'       Seller can add books to sell .
+    - 'notAvailable'      If there are no books with specified name in your rto.
